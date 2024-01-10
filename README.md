@@ -25,3 +25,5 @@ Demo Video:
 ![Playing Pokémon Crystal](images/playing_poke_crystal.png "Playing Pokémon Crystal (2000, Game Freak)")
 
 ![Terasic DE0-CV and my own board for connecting the FPGA and GB/GBC cartridges](images/board.jpg "Terasic DE0-CV and my own board for connecting the FPGA and GB/GBC cartridges")
+
+![Layout of the PCB](images/pcb.png "Layout of the PCB")

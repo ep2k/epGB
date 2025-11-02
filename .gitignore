@@ -1,0 +1,44 @@
+*.bak
+*.qsf
+*.qws
+*.qpf
+*.xml
+/db/
+/devkits/
+/greybox_tmp/
+/incremental_db/
+/output_files/
+/c5_pin_model_dump.txt
+
+/ip/
+/rom_list/
+/testbench/
+
+# temporary
+/if/
+io_pkg.sv
+
+# -------------------------
+#   KiCad
+# -------------------------
+KiCad/*/fp-info-cache
+KiCad/*/*.kicad_prl
+KiCad/*/*backups
+KiCad/*/gerber
+
+# -------------------------
+#   Visual Studio Code
+# -------------------------
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ-3523-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/SJ-3523-SMT-TR/SJ-3523-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "_epGB_de0cv")(type "KiCad")(uri "${KIPRJMOD}/lib/_epGB_de0cv.kicad_sym")(options "")(descr ""))
+)

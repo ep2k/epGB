@@ -1,0 +1,8 @@
+1. Download SJ-3523-SMT-TR KiCad model
+
+URL: https://jp.sameskydevices.com/product/resource/pcbfootprint/sj-3523-smt-tr
+Download Format: KiCad (V6 and later)
+
+2. Extract the *.zip and put here
+
+lib/SJ-3523-SMT-TR/
